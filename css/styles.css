@@ -1,0 +1,24 @@
+h1 {
+    color: #ff2500;
+    background-image: url(../img/frtjwby4z1621.jpg);
+    text-align: center;
+    font-size: 5em;
+    background: linear-gradient(rgb(43, 43, 43), transparent);
+    padding-bottom: 50px;
+    margin: 0;
+    border-radius: 15px 15px 0 0;
+}
+
+p {
+    font-size: 5em;
+    margin: 0;
+}
+
+li {
+    font-size: 3em;
+    margin: 0;
+}
+
+img {
+  align-content: center;
+}
